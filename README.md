@@ -1,7 +1,7 @@
 # Alura Go Inventory #
 
 [Go: crie Métodos, Generics e Interface](https://cursos.alura.com.br/course/go-crie-metodos-generics-interface)
-
+[Github Repository](https://github.com/alura-cursos/go-4/tree/aula_5)
 
 ## Visão Geral ##
 
